@@ -6,9 +6,8 @@
  ● use that library in main.rs
  ● Call that function from fn main
  */
-//mod lib;
+//===========================================================
 mod lib;
 fn main() {
-    lib::truth_table::xor::simple_function();
-
+    lib::truth_table::xor::xor_function();
 }

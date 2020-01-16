@@ -1,6 +1,6 @@
-mod truth_table{
+pub mod truth_table{
 	pub mod xor{
-		pub fn simple_function(){
+		pub fn xor_function(){
 			let input = [[0,0],
 					 	[0,1],
 					 	[1,0],
@@ -15,6 +15,6 @@ mod truth_table{
 			println!(" {:?}  {:?} \t  {:?}",input[2][0],input[2][1],output[1]);
 			println!(" {:?}  {:?} \t  {:?}",input[3][0],input[3][1],output[0]);
 
-		} 
-	} 
+		}
+	}
 }

@@ -1,0 +1,1 @@
+C:\Najam\IoT\ Batch-3\Assignment_no7\Assignment-No7-IoT\target\debug\question-3.exe: C:\Najam\IoT\ Batch-3\Assignment_no7\Assignment-No7-IoT\question-3\question_3_lib\src\lib.rs C:\Najam\IoT\ Batch-3\Assignment_no7\Assignment-No7-IoT\question-3\src\main.rs
